@@ -4,5 +4,3 @@
 - Slide 26 - Questão 2: Cofrinho digital
 - Slide 27 - Questão 3: Média do atendimento
 - Slide 28 - Questão 4: Meta de 10.000 passos
-
-Cada questão está em um arquivo .c separado para abrir no VS Code.
